@@ -1,5 +1,7 @@
 # OS-group7
 
+@xuhongjia902@126.com
+
 研究方向：storage for cloud computing
 
 @https://searchstorage.techtarget.com/quiz/Understanding-cloud-computing-storage
