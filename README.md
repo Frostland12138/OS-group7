@@ -14,7 +14,7 @@ there's a lot basic concepts on this website , do check if needed.
 
   The storage of backup data is the primary use for cloud storage. Sixty-six percent of the respondents also said that they would use the cloud for email data.
 
-Things we are interested in:
+$$$$Things we are interested in:$$$$
 
   Cloud gateways----work as cache of cloud computing , wandering how it works and how it benifits
 
